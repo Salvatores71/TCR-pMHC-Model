@@ -5,6 +5,9 @@
 ```sh
 node.js v22.3.0
 python v3.9.6
+```
+
+```sh
 npm install
 pip install sys
 pip install SequenceQuery
@@ -14,7 +17,7 @@ pip install os
 
 ```
 
-### Compile and Hot-Reload for Development
+### Project Start
 
 ```sh
 前端在src中，后端在server中
@@ -28,8 +31,4 @@ node server.js run
 server/killport.sh
 ```
 
-### Type-Check, Compile and Minify for Production
 
-```sh
-npm run build
-```
